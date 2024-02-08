@@ -1,4 +1,4 @@
-
+Default Text = Bunu bulamadım, lütfen daha sonra tekrar deneyin.
 Hp Laserjet Pro P1100 = 285A / 435A / 436A
 Hp Laserjet Pro P1102 = 285A / 435A / 436A
 Hp Laserjet Pro P1102w = 285A / 435A / 436A
